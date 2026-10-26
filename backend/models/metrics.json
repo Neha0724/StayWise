@@ -1,0 +1,40 @@
+{
+  "best_model": "Lasso",
+  "models": [
+    {
+      "model": "Linear Regression",
+      "mae": 0.3214,
+      "mse": 0.1571,
+      "rmse": 0.3964,
+      "r2": 0.5728
+    },
+    {
+      "model": "Ridge",
+      "mae": 0.3214,
+      "mse": 0.1571,
+      "rmse": 0.3964,
+      "r2": 0.5729
+    },
+    {
+      "model": "Lasso",
+      "mae": 0.3191,
+      "mse": 0.1547,
+      "rmse": 0.3933,
+      "r2": 0.5795
+    },
+    {
+      "model": "Decision Tree",
+      "mae": 0.4623,
+      "mse": 0.3299,
+      "rmse": 0.5744,
+      "r2": 0.1033
+    },
+    {
+      "model": "Random Forest",
+      "mae": 0.3342,
+      "mse": 0.1704,
+      "rmse": 0.4128,
+      "r2": 0.5368
+    }
+  ]
+}
